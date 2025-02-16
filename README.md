@@ -40,6 +40,8 @@ ArtGallery is a Spring Boot-based REST API designed for managing an online art g
    ```bash
    http://localhost:8080/api-docs
    ```
+5. Access the swagger OpenAPI through browser:
+   `https://localhost:8080/swagger-ui/index.html`
 
 ## 📜 API Endpoints
 
